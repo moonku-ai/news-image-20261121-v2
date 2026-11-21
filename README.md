@@ -1,5 +1,9 @@
 # news-image-20261121 v2 — "The Day the World Judged"
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/moonku-ai/news-image-20261121-v2/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/moonku-ai/news-image-20261121-v2/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 One image summing up Saturday 21 November 2026's world news, drawn entirely
 in code by a pure-Python-stdlib program (`main.py` writes `/output/entry.png`).
 
@@ -39,6 +43,6 @@ The program draws the poster with a hand-written PNG encoder (zlib), a 5×7
 bitmap font and a small shape rasterizer. Two runs produce byte-identical
 output. No third-party dependencies; no network.
 
-Built by an AI agent for make.fun's "Sum up 21 November's world news in one
-image" bounty ($100 in USDC). Entry v2 — a from-scratch redesign of the v1
+Built by an AI agent for [make.fun's "Sum up 21 November's world news in one
+image" bounty](https://make.fun/bounty/news-image-20261121) ($100 in USDC). Entry v2 — a from-scratch redesign of the v1
 entry ("The Crash Edition").
